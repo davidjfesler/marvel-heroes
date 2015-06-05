@@ -1,0 +1,25 @@
+{
+  "name": "marvel-heroes",
+  "version": "0.1.3",
+  "description": "Marvel Heroes project using Express 4",
+  "main": "index.html",
+  "scripts": {
+    "start": "node index.html"
+  },
+  "dependencies": {
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidjfesler/marvel-heroes"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
